@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+}
+.jumbotron{
+  padding-top: 3% ;
+}
+.main-heading{
+  color: #9c9c9c;
+  margin-bottom: 1% ;
+}
+.thumbnal{
+  margin-left: 20% ;
+  margin-top: 2% ;
+  margin-bottom: 2% ;
+}
+
+.extra{
+  margin-left: 18% ;
+}
+
+p{
+  font-size: 19 px;
+}
+.quote{
+  font-size: x-large;
+  font-weight: 600;
+}
