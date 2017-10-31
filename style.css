@@ -4,6 +4,17 @@ body {
 .jumbotron{
   padding-top: 3% ;
 }
+
+.flex-container {
+  display: flex; /* also inline-flex is possible */
+   justify-content: center; //allign flexboxes to the center
+}
+
+.flex {
+  flex: 1;
+  margin: 30px;
+}
+
 .main-heading{
   color: #9c9c9c;
   margin-bottom: 1% ;
